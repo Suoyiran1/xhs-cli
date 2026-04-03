@@ -1,0 +1,18 @@
+# Binary
+xhs
+xhs-cli
+*.exe
+
+# Go
+vendor/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Cookies (sensitive)
+cookies.json
